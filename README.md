@@ -3,7 +3,7 @@ Demo for importing files to database with laravel excel
 
 **Installation**
 
-1- git clone https://github.com/MomenSamir/import-files.git 
+-git clone https://github.com/MomenSamir/import-files.git 
 
 -rename .env.example to .env
 
