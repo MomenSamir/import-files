@@ -11,9 +11,12 @@ Demo for importing files to database with laravel excel
 ```
 git clone https://github.com/MomenSamir/import-files.git 
 ```
-* rename .env.example to .env
+> **Note**
+> 
+> rename .env.example to .env.
+> 
+> add the database settings.
 
-* add the database settings
 ```
 php artisan key:generate
 ```
